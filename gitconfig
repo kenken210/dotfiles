@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gearheadchevy@yahoo.comexec zsh
+	name = kenny dinsmore
